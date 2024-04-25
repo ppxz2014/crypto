@@ -1,4 +1,4 @@
-module github.com/ppxz2014/crypto.git
+module github.com/ppxz2014/crypto
 
 go 1.18
 
